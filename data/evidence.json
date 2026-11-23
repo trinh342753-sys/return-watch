@@ -64,5 +64,15 @@
    1.42
   ],
   "source": "Schedule Risk Planner, M3 (2023-24 on)"
+ },
+ "high_end": {
+  "predicted": 0.00828,
+  "observed": [
+   0.02154,
+   0.01601,
+   0.02892
+  ],
+  "games": 1393,
+  "strains": 30
  }
 }
