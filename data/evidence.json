@@ -74,5 +74,19 @@
   ],
   "games": 1393,
   "strains": 30
+ },
+ "carryover": {
+  "last_season_ratio": [
+   3.9,
+   2.68,
+   5.35
+  ],
+  "this_season_ratio": [
+   4.16,
+   1.77,
+   7.36
+  ],
+  "last_season_games": 6588,
+  "last_season_strains": 62
  }
 }
